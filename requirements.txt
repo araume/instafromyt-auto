@@ -1,0 +1,4 @@
+instagrapi
+yt-dlp
+google-api-python-client
+python-dotenv
